@@ -1,4 +1,4 @@
-# 🔐 Flutter Advance ![GitHub stars](https://github.com/CovenantJunior/advanced_flutter?style=social)
+# 🔐 Flutter Advance ![GitHub stars](https://img.shields.io/github/stars/CovenantJunior/advanced_flutter?style=social)
 
 Feel free to star, fork and contribute.
 
