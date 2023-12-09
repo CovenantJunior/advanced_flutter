@@ -30,7 +30,7 @@ Feel free to star, fork and contribute.
 
 <img src="gifs/water_animation.gif" width="50%" vspace="10" hspace="10"/>
 
-### Big Thanks and Credits to Tomiwa Idowu a lending hand
+### Big Thanks and Credits to Tomiwa Idowu for making this possible
 <p>
 <a href="https://twitter.com/cscoder_"><img src="https://github.com/aritraroy/social-icons/blob/master/twitter-icon.png?raw=true" width="50"></a>
 <a href="https://linkedin.com/in/cscoder/"><img src="https://github.com/aritraroy/social-icons/blob/master/linkedin-icon.png?raw=true" width="50"></a>
