@@ -1,8 +1,8 @@
-# 🔐 Flutter Advance ![GitHub stars](flutter_advance?style=social)
+# 🔐 Flutter Advance ![GitHub stars](https://github.com/CovenantJunior/advanced_flutter?style=social)
 
 Feel free to star, fork and contribute.
 
-### Rainbow Sticks Animation || [Link to code](flutter_advance/blob/main/lib/rainbow_sticks_page.dart)
+### Rainbow Sticks Animation || [Link to code](advanced_flutter/blob/main/lib/rainbow_sticks_page.dart)
 
 <img src="gifs/rainbow_sticks_animation.gif" width="50%" vspace="10" hspace="10"/>
 
@@ -10,22 +10,22 @@ Feel free to star, fork and contribute.
 
 <img src="gifs/telegram_theme_switcher.gif" width="50%" vspace="10" hspace="10"/>
 
-### Animated Lock || [Link to code](flutter_advance/blob/main/lib/animated_lock.dart)
+### Animated Lock || [Link to code](advanced_flutter/blob/main/lib/animated_lock.dart)
 
 <img src="gifs/animated_lock.gif" width="50%" vspace="10" hspace="10"/>
 
-### Animated Progress Bar || [Link to code](flutter_advance/blob/main/lib/animated_progress_bar.dart)
+### Animated Progress Bar || [Link to code](advanced_flutter/blob/main/lib/animated_progress_bar.dart)
 
 <img src="gifs/progress_bar.gif" width="50%" vspace="10" hspace="10"/>
 
-### Animated Card || [Link to code](flutter_advance/blob/main/lib/animated_card.dart)
+### Animated Card || [Link to code](advanced_flutter/blob/main/lib/animated_card.dart)
 
 <img src="gifs/animated_card.gif" width="50%" vspace="10" hspace="10"/>
 
-### Phone Pattern || [Link to code](flutter_advance/blob/main/lib/phone_pattern.dart)
+### Phone Pattern || [Link to code](advanced_flutter/blob/main/lib/phone_pattern.dart)
 
 <img src="gifs/phone_pattern.gif" width="50%" vspace="10" hspace="10"/>
 
-### Water Wave Animation || [Link to code](flutter_advance/blob/main/lib/water_wave_animation/water_wave_animation_page.dart)
+### Water Wave Animation || [Link to code](advanced_flutter/blob/main/lib/water_wave_animation/water_wave_animation_page.dart)
 
 <img src="gifs/water_animation.gif" width="50%" vspace="10" hspace="10"/>
